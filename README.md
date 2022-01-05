@@ -1,8 +1,10 @@
 # web-shop
 Project bao gồm các chức năng:
+
 Quản trị:
  - Thêm sửa xóa danh sách : Danh mục - Sản phẩm - Slider
  - Danh sách đơn hàng
+
 Trang người dùng:
 - Trang chủ show menu , slider , danh sách sản phẩm 
 - Trang danh mục sản phẩm : hiển thị danh sách sản phẩm có lọc theo giá
