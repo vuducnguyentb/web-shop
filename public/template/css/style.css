@@ -1,0 +1,14 @@
+/*@import url("https://fonts.google.com/share?selection.family=Roboto%20Slab:wght@200");*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body ,input[type=text], h2,.stext-104, .mtext-102,.stext-106,.sub-menu a,.main-menu > li > a{
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.how-pos2 img{
+    width: 100%;
+}
+
+.hidden.sm\:flex-1.sm\:flex.sm\:items-center.sm\:justify-between {
+    display: none;
+}
